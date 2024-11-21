@@ -98,6 +98,8 @@
 
 
 ---
-
 ### 🎥 Fun Animation
-[![Animation](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Programming GIF" width="500px">
+</p>
+
