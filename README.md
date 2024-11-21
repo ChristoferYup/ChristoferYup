@@ -82,15 +82,16 @@
 
 <p align="center">
   <a href="https://www.instagram.com/christoferalonso29/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/instagram-new.png" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
   </a>
   <a href="mailto:christofer.yupanqui.rosales@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/gmail.png" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/christofer-alonso-y-9a03a3218/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
