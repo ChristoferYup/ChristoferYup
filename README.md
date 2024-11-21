@@ -81,10 +81,15 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/your_username" target="_blank"><img src="https://img.icons8.com/bubbles/50/instagram-new.png" alt="Instagram" /></a>
-  <a href="https://discordapp.com/users/your_id" target="_blank"><img src="https://img.icons8.com/bubbles/50/discord-logo.png" alt="Discord" /></a>
-  <a href="mailto:your_email@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/gmail.png" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/your_profile" target="_blank"><img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/christoferalonso29/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="mailto:christofer.yupanqui.rosales@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/christofer-alonso-y-9a03a3218/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
