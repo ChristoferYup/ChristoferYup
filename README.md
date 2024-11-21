@@ -20,15 +20,19 @@
 <div align="center">
   <h2>🚀 Technologies I Use</h2>
   <p>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+    <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+    <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+    <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
+    <img src="https://img.icons8.com/plasticine/48/react.png" alt="React.js" />
+    <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular" />
+    <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+    <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+    <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
+    <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" />
+    <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop" />
+    <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator" />
   </p>
 </div>
 
@@ -59,6 +63,12 @@
 - Provided software and hardware support in corporate environments.
 - Configured secure VPN connections and resolved complex technical issues.
 
+#### **Security Engineer** | Bafing (2020 - 2022)
+- Monitored and analyzed real-time security events, focusing on **Threat Hunting**.
+- Investigated vulnerabilities and provided mitigation strategies for corporate clients.
+- Developed **frontend interfaces** and **APIs** for open-source tools like The Hive Project.
+- Conducted research in the **Darkweb** to identify emerging threats and secure corporate environments.
+
 ---
 
 ### 📚 Certifications
@@ -71,10 +81,10 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/your_username" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://discordapp.com/users/your_id" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:your_email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/your_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/your_username" target="_blank"><img src="https://img.icons8.com/bubbles/50/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://discordapp.com/users/your_id" target="_blank"><img src="https://img.icons8.com/bubbles/50/discord-logo.png" alt="Discord" /></a>
+  <a href="mailto:your_email@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/gmail.png" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/your_profile" target="_blank"><img src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn" /></a>
 </p>
 
 ---
