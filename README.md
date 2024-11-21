@@ -49,21 +49,21 @@
 
 ### 🌟 Professional Experience
 
-#### **Frontend Developer** | Globant (2022 - Present)
+#### **Frontend Developer** 
 - Development and maintenance of scalable and responsive web applications using **React.js** and **Angular**.
 - Implemented **SEO optimization** and reusable components for enhanced performance.
 - Conducted user training and technical documentation.
 
-#### **Security Analyst** | Overall (2024)
+#### **Security Analyst** 
 - Led the SOC team, focusing on identifying and mitigating security threats.
 - Automated processes with Python scripts for efficient incident response.
 - Monitored and analyzed suspicious activities using **SIEM platforms**.
 
-#### **Support Engineer** | WHIZ (2022 - 2024)
+#### **Support Engineer** 
 - Provided software and hardware support in corporate environments.
 - Configured secure VPN connections and resolved complex technical issues.
 
-#### **Security Engineer** | Bafing (2020 - 2022)
+#### **Security Engineer**
 - Monitored and analyzed real-time security events, focusing on **Threat Hunting**.
 - Investigated vulnerabilities and provided mitigation strategies for corporate clients.
 - Developed **frontend interfaces** and **APIs** for open-source tools like The Hive Project.
