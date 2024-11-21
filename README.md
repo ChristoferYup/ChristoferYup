@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/000000/placeholder.png" alt="Banner Image" width="800px">
+  <img src="https://github.com/ChristoferYup/ChristoferYup/blob/main/banner.jpg" alt="Banner Image" width="800px">
 </div>
 
 ---
